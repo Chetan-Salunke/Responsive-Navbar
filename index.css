@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(243, 241, 241);
+    
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px ;
+}
+.input1{
+    margin-top: 45px;
+}
+.input2{
+    margin-top: 45px;
+}
+.input3{
+    margin-top: 45px;
+}
+.input4{
+    margin-top: 76px;
+}
+input{
+    width: 100%;
+    padding: 12px 40px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+  }
+
+  .btn{
+    padding: 14px 40px;
+    background-color: aqua;
+  }
